@@ -1,0 +1,21 @@
+/* src/components/Home.css */
+.home {
+  padding: 20px;
+}
+
+.home-links {
+  margin-top: 20px;
+}
+
+.btn {
+  margin: 0 10px;
+  padding: 10px 20px;
+  background-color: #8D6E63;
+  color: #FFF;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: #6D4C41;
+}
